@@ -4,6 +4,32 @@
 
 Data Scientist and Data Science bachelor's candidate focused on forecasting, anomaly detection, explainable machine learning, and practical data applications.
 
+## Contributions in the Last Year
+
+<p align="center">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hibra999&amp;theme=transparent&amp;animation=load" alt="Contributions in the last year" />
+</p>
+
+## Activity Overview
+
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hibra999&amp;theme=transparent&amp;animation=load" alt="GitHub activity statistics" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Hibra999&amp;theme=transparent&amp;utcOffset=0&amp;animation=load" alt="Contribution activity by time of day" />
+</p>
+
+### Contribution Streak
+
+<p align="center">
+  <img width="70%" src="https://streak-stats.demolab.com?user=Hibra999&amp;theme=transparent&amp;hide_border=true&amp;disable_animations=false" alt="Contribution streak statistics" />
+</p>
+
+## Language Analytics
+
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hibra999&amp;theme=transparent&amp;animation=load" alt="Languages by repository" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hibra999&amp;theme=transparent&amp;animation=load" alt="Languages by commits" />
+</p>
+
 ## Technical Stack
 
 ### Languages
@@ -36,8 +62,8 @@ Data Scientist and Data Science bachelor's candidate focused on forecasting, ano
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![Power BI: Intermediate](https://img.shields.io/badge/Power%20BI-Intermediate-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Excel: Intermediate](https://img.shields.io/badge/Excel-Intermediate-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 
 ### Applications and Development
 
@@ -66,33 +92,7 @@ Tlaxcala, Mexico | February 2026–June 2026
 ## Languages
 
 - Spanish: Native proficiency.
-- English: Professional working proficiency.
-
-## Contributions in the Last Year
-
-<p align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hibra999&amp;theme=transparent&amp;animation=load" alt="Contributions in the last year" />
-</p>
-
-## Activity Overview
-
-<p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hibra999&amp;theme=transparent&amp;animation=load" alt="GitHub activity statistics" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Hibra999&amp;theme=transparent&amp;utcOffset=0&amp;animation=load" alt="Contribution activity by time of day" />
-</p>
-
-### Contribution Streak
-
-<p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=Hibra999&amp;theme=transparent&amp;hide_border=true&amp;disable_animations=false" alt="Contribution streak statistics" />
-</p>
-
-## Language Analytics
-
-<p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hibra999&amp;theme=transparent&amp;animation=load" alt="Languages by repository" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hibra999&amp;theme=transparent&amp;animation=load" alt="Languages by commits" />
-</p>
+- English: Advanced proficiency (TOEFL ITP, CEFR B2).
 
 ## Contact
 
