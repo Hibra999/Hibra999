@@ -2,14 +2,7 @@
 
 ### Data Scientist | Machine Learning and Time Series Forecasting
 
-I build practical data and machine learning systems for forecasting, classification, anomaly detection, financial analysis, and sports analytics.
-
-## About Me
-
-- Data Scientist with experience developing data applications, automation scripts, statistical reports, and machine learning workflows.
-- Bachelor's Degree candidate in Data Science at Instituto Politecnico Nacional, expected in 2026.
-- Focused on time series forecasting, ensemble learning, explainable machine learning, data analysis, and predictive applications.
-- Committed to turning raw data into reliable, reusable, and understandable systems that support better decisions.
+Data Scientist and Data Science bachelor's candidate focused on forecasting, anomaly detection, explainable machine learning, and practical data applications.
 
 ## Technical Stack
 
@@ -52,26 +45,6 @@ I build practical data and machine learning systems for forecasting, classificat
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-## Highlighted Projects
-
-### [Awesome Forecasting Skills](https://github.com/Hibra999/Awesome-forecasting-skills) | 2026–Present
-
-- Library of reusable Python modules for time series forecasting, classification, and anomaly detection.
-- Integrates more than 30 open-source libraries, including Statsmodels, Kats, ETNA, Prophet, sktime, Darts, PyTorch Forecasting, and PyOD.
-- Provides backtesting utilities designed to evaluate model accuracy and prevent data leakage.
-
-### Ensemble Model for Financial Asset Prediction | 2024–2026
-
-- Stacking system combining CatBoost, LightGBM, TimeXer, and Moirai-MoE, with an LSTM network used to combine model outputs.
-- Evaluated on the S&P 500, Nvidia, Apple, Coca-Cola, Johnson & Johnson, Bitcoin, and Ethereum.
-- Uses MICFS feature selection for technical and macroeconomic indicators.
-
-### ML-STATSSOCCER | 2026–Present
-
-- Soccer prediction project with a web application, a companion application for the 2026 World Cup, and a command-line tool.
-- Compares boosting, Bayesian, and neural network models for match outcome prediction.
-- Uses SHAP visualizations to communicate model predictions clearly.
 
 ## Professional Experience
 
