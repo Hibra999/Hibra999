@@ -95,15 +95,32 @@ Tlaxcala, Mexico | February 2026–June 2026
 - Spanish: Native proficiency.
 - English: Professional working proficiency.
 
-## GitHub Analytics
+## Contributions in the Last Year
 
-![Hibra999 GitHub statistics](https://github-readme-stats.vercel.app/api?username=Hibra999&show_icons=true&hide_border=true)
+<p align="center">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hibra999&amp;theme=transparent&amp;animation=load" alt="Contributions in the last year" />
+</p>
 
-![Hibra999 top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hibra999&layout=compact&hide_border=true)
+## Activity Overview
+
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hibra999&amp;theme=transparent&amp;animation=load" alt="GitHub activity statistics" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Hibra999&amp;theme=transparent&amp;utcOffset=0&amp;animation=load" alt="Contribution activity by time of day" />
+</p>
+
+### Contribution Streak
+
+<p align="center">
+  <img width="70%" src="https://streak-stats.demolab.com?user=Hibra999&amp;theme=transparent&amp;hide_border=true&amp;disable_animations=false" alt="Contribution streak statistics" />
+</p>
+
+## Language Analytics
+
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hibra999&amp;theme=transparent&amp;animation=load" alt="Languages by repository" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hibra999&amp;theme=transparent&amp;animation=load" alt="Languages by commits" />
+</p>
 
 ## Contact
 
 - Email: [miarsito@gmail.com](mailto:miarsito@gmail.com)
-- LinkedIn: [linkedin.com/in/hibraim-zarate-0a5671321](https://www.linkedin.com/in/hibraim-zarate-0a5671321)
-- GitHub: [github.com/Hibra999](https://github.com/Hibra999)
-- Phone: 248-123-7940
