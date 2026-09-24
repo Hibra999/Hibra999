@@ -1,8 +1,8 @@
 # I solve problems with data.
 
-<img src="./assets/neofetch-color-v2.png" alt="Neofetch style profile widget for Hibra999" width="100%" />
+<img src="./assets/neofetch-color-v3.png" alt="Neofetch style profile widget for Hibra999" width="100%" />
 
-I build practical data systems: cleaning messy sources, automating manual work,
+Automation specialist building practical data systems: cleaning messy sources, automating manual work,
 forecasting temporal behavior, and turning analysis into tools people can use.
 
 ## Direction
@@ -11,7 +11,7 @@ forecasting temporal behavior, and turning analysis into tools people can use.
 | --- | --- |
 | Business data | SAP, Access, Power BI, Excel, operational reporting |
 | Forecasting | statistical models, ML regressors, backtesting, leakage checks |
-| Automation | Python scripts, data cleaning, repetitive-process reduction |
+| Automation | Python scripts, workflow automation, repetitive-process reduction |
 | Audit data | anomaly checks, public-audit apps, statistical summaries |
 
 <p align="center">
