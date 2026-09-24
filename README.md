@@ -1,6 +1,6 @@
 # I solve problems with data.
 
-<img src="./assets/neofetch.png" alt="Neofetch style profile widget for Hibra999" width="100%" />
+<img src="./assets/neofetch-color-v2.png" alt="Neofetch style profile widget for Hibra999" width="100%" />
 
 I build practical data systems: cleaning messy sources, automating manual work,
 forecasting temporal behavior, and turning analysis into tools people can use.
