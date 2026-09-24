@@ -1,35 +1,40 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="760" height="300" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="360" role="img" aria-labelledby="title desc">
   <title id="title">hibra999 neofetch profile</title>
-  <desc id="desc">A neofetch inspired profile widget for a data analyst and data scientist.</desc>
-  <rect width="760" height="300" rx="18" fill="#0b1117"/>
-  <rect x="16" y="16" width="728" height="268" rx="14" fill="#101820" stroke="#263849"/>
+  <desc id="desc">A neofetch inspired profile widget with ASCII art generated from the profile picture.</desc>
+  <rect width="1000" height="360" rx="18" fill="#080c10"/>
+  <rect x="16" y="16" width="968" height="328" rx="14" fill="#0f1720" stroke="#27384a"/>
   <circle cx="42" cy="42" r="6" fill="#ff5f56"/>
   <circle cx="64" cy="42" r="6" fill="#ffbd2e"/>
   <circle cx="86" cy="42" r="6" fill="#27c93f"/>
 
-  <g font-family="Consolas, Menlo, monospace" font-size="13" fill="#6ee7b7">
-    <text x="38" y="86">        .--.</text>
-    <text x="38" y="104">       |o_o |</text>
-    <text x="38" y="122">       |:_/ |</text>
-    <text x="38" y="140">      //   \ \</text>
-    <text x="38" y="158">     (|     | )</text>
-    <text x="38" y="176">    /'\_   _/`\</text>
-    <text x="38" y="194">    \___)=(___/</text>
-    <text x="38" y="228">  HibraOS Data Workstation</text>
+  <g font-family="Consolas, Menlo, monospace" font-size="15" fill="#7dd3fc">
+    <text x="44" y="82">%%%%%%%%%%%%@@@%%%%%%#######</text>
+    <text x="44" y="102">########*+:.  .. .:+########</text>
+    <text x="44" y="122">######=+.           .+######</text>
+    <text x="44" y="142">######+. .  .-+-:.   :*%%%%%</text>
+    <text x="44" y="162">#####*-. . .-****=.   .*####</text>
+    <text x="44" y="182">#####+... .:--++=:.   .-####</text>
+    <text x="44" y="202">#####%*.:-+++++-==-.  .=*###</text>
+    <text x="44" y="222">#####%+.:**#**+====::-+*****</text>
+    <text x="44" y="242">%%%##%#: +**++=-==-.:*******</text>
+    <text x="44" y="262">%%%%%%%%#*****++=- :********</text>
+    <text x="44" y="282">%%%%%%%##**++==--+#*********</text>
+    <text x="44" y="302">%%#######****+===---+*******</text>
   </g>
 
-  <g font-family="Consolas, Menlo, monospace" font-size="15">
-    <text x="285" y="74" fill="#e6edf3" font-weight="700">hibra999@github</text>
-    <text x="285" y="94" fill="#4ade80">----------------</text>
-    <text x="285" y="120" fill="#93c5fd">OS</text><text x="390" y="120" fill="#c9d1d9">HibraOS / Data Linux</text>
-    <text x="285" y="144" fill="#93c5fd">Role</text><text x="390" y="144" fill="#c9d1d9">Data Analyst + Data Scientist</text>
-    <text x="285" y="168" fill="#93c5fd">Now</text><text x="390" y="168" fill="#c9d1d9">Saljamex · SAP · Access · Power BI</text>
-    <text x="285" y="192" fill="#93c5fd">Kernel</text><text x="390" y="192" fill="#c9d1d9">forecasting · automation · anomaly checks</text>
-    <text x="285" y="216" fill="#93c5fd">Shell</text><text x="390" y="216" fill="#c9d1d9">Python · SQL · R · Flask · FastAPI</text>
-    <text x="285" y="240" fill="#93c5fd">Packages</text><text x="390" y="240" fill="#c9d1d9">pandas · Polars · sktime · Darts · PyTorch</text>
+  <g font-family="Consolas, Menlo, monospace" font-size="17">
+    <text x="460" y="78" fill="#e5f4ff" font-weight="700">hibra999@github</text>
+    <text x="460" y="102" fill="#38bdf8">----------------</text>
+    <text x="460" y="132" fill="#a7f3d0">motto</text><text x="585" y="132" fill="#dbeafe">i solve problems with data</text>
+    <text x="460" y="160" fill="#a7f3d0">role</text><text x="585" y="160" fill="#dbeafe">data analyst / data scientist</text>
+    <text x="460" y="188" fill="#a7f3d0">now</text><text x="585" y="188" fill="#dbeafe">Saljamex · SAP · Access · Power BI</text>
+    <text x="460" y="216" fill="#a7f3d0">kernel</text><text x="585" y="216" fill="#dbeafe">forecasting · automation · anomaly checks</text>
+    <text x="460" y="244" fill="#a7f3d0">shell</text><text x="585" y="244" fill="#dbeafe">Python · SQL · R · Flask · FastAPI</text>
+    <text x="460" y="272" fill="#a7f3d0">repos</text><text x="585" y="272" fill="#dbeafe">forecasting skills · financial models</text>
+    <text x="460" y="300" fill="#a7f3d0">contact</text><text x="585" y="300" fill="#dbeafe">miarsito@gmail.com</text>
   </g>
 
-  <g transform="translate(286 258)">
+  <g transform="translate(462 318)">
     <rect width="28" height="12" rx="3" fill="#ef4444"/>
     <rect x="36" width="28" height="12" rx="3" fill="#f97316"/>
     <rect x="72" width="28" height="12" rx="3" fill="#eab308"/>

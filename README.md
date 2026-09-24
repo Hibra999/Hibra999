@@ -1,28 +1,6 @@
-# hibra999
+# I solve problems with data.
 
-<table>
-  <tr>
-    <td width="220">
-      <img src="./assets/avatar.jpg" alt="Hibra999 profile picture" width="200" />
-    </td>
-    <td>
-      <img src="./assets/neofetch.svg" alt="Neofetch style profile widget for Hibra999" width="760" />
-    </td>
-  </tr>
-</table>
-
-```txt
-hibra999@github
-----------------
-Role:       Data Analyst | Data Scientist
-Focus:      forecasting, automation, anomaly detection, dashboards
-Base:       Tlaxcala, Mexico
-Education:  Data Science, Instituto Politecnico Nacional
-Now:        Saljamex | SAP, Access, Power BI, automation
-Projects:   forecasting skills library, financial asset prediction
-Languages:  Spanish native | English professional working proficiency
-Contact:    miarsito@gmail.com
-```
+<img src="./assets/neofetch.svg" alt="Neofetch style profile widget for Hibra999" width="100%" />
 
 I build practical data systems: cleaning messy sources, automating manual work,
 forecasting temporal behavior, and turning analysis into tools people can use.
