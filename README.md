@@ -1,8 +1,15 @@
-# Israel Hibraim Hernandez Zarate
+# hibra999
 
-<p align="center">
-  <img src="./assets/career-snapshot.svg" alt="Career snapshot: Data Analyst, forecasting, automation, audit data, dashboards" width="100%" />
-</p>
+<table>
+  <tr>
+    <td width="220">
+      <img src="./assets/avatar.jpg" alt="Hibra999 profile picture" width="200" />
+    </td>
+    <td>
+      <img src="./assets/neofetch.svg" alt="Neofetch style profile widget for Hibra999" width="760" />
+    </td>
+  </tr>
+</table>
 
 ```txt
 hibra999@github

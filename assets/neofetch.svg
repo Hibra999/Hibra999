@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="300" role="img" aria-labelledby="title desc">
+  <title id="title">hibra999 neofetch profile</title>
+  <desc id="desc">A neofetch inspired profile widget for a data analyst and data scientist.</desc>
+  <rect width="760" height="300" rx="18" fill="#0b1117"/>
+  <rect x="16" y="16" width="728" height="268" rx="14" fill="#101820" stroke="#263849"/>
+  <circle cx="42" cy="42" r="6" fill="#ff5f56"/>
+  <circle cx="64" cy="42" r="6" fill="#ffbd2e"/>
+  <circle cx="86" cy="42" r="6" fill="#27c93f"/>
+
+  <g font-family="Consolas, Menlo, monospace" font-size="13" fill="#6ee7b7">
+    <text x="38" y="86">        .--.</text>
+    <text x="38" y="104">       |o_o |</text>
+    <text x="38" y="122">       |:_/ |</text>
+    <text x="38" y="140">      //   \ \</text>
+    <text x="38" y="158">     (|     | )</text>
+    <text x="38" y="176">    /'\_   _/`\</text>
+    <text x="38" y="194">    \___)=(___/</text>
+    <text x="38" y="228">  HibraOS Data Workstation</text>
+  </g>
+
+  <g font-family="Consolas, Menlo, monospace" font-size="15">
+    <text x="285" y="74" fill="#e6edf3" font-weight="700">hibra999@github</text>
+    <text x="285" y="94" fill="#4ade80">----------------</text>
+    <text x="285" y="120" fill="#93c5fd">OS</text><text x="390" y="120" fill="#c9d1d9">HibraOS / Data Linux</text>
+    <text x="285" y="144" fill="#93c5fd">Role</text><text x="390" y="144" fill="#c9d1d9">Data Analyst + Data Scientist</text>
+    <text x="285" y="168" fill="#93c5fd">Now</text><text x="390" y="168" fill="#c9d1d9">Saljamex · SAP · Access · Power BI</text>
+    <text x="285" y="192" fill="#93c5fd">Kernel</text><text x="390" y="192" fill="#c9d1d9">forecasting · automation · anomaly checks</text>
+    <text x="285" y="216" fill="#93c5fd">Shell</text><text x="390" y="216" fill="#c9d1d9">Python · SQL · R · Flask · FastAPI</text>
+    <text x="285" y="240" fill="#93c5fd">Packages</text><text x="390" y="240" fill="#c9d1d9">pandas · Polars · sktime · Darts · PyTorch</text>
+  </g>
+
+  <g transform="translate(286 258)">
+    <rect width="28" height="12" rx="3" fill="#ef4444"/>
+    <rect x="36" width="28" height="12" rx="3" fill="#f97316"/>
+    <rect x="72" width="28" height="12" rx="3" fill="#eab308"/>
+    <rect x="108" width="28" height="12" rx="3" fill="#22c55e"/>
+    <rect x="144" width="28" height="12" rx="3" fill="#06b6d4"/>
+    <rect x="180" width="28" height="12" rx="3" fill="#3b82f6"/>
+    <rect x="216" width="28" height="12" rx="3" fill="#8b5cf6"/>
+    <rect x="252" width="28" height="12" rx="3" fill="#ec4899"/>
+  </g>
+</svg>
